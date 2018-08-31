@@ -6,4 +6,4 @@ print('A média entre {} e {} = {}'.format(n1, n2, (n1+n2)/2))
 ''' Ou declarando a variavel m '''
 
 ''' m = (n1+n2)/2 '''
-''' print('A média entre {} e {} = {}'.format(n1, n2, m)) '''
+''' print('A média entre {} e {} = {}'.format(n1, n2, m))'''
