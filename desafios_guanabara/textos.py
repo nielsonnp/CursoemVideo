@@ -1,6 +1,5 @@
 frase = "Curso em Vídeo Python"
 
-print('boa noite')
 print(frase[3:13:2]) #Vai de 3 até 13 pulando de 1 em 1
 print(frase.count('u')) #Conta quantas vezes tem o 'u' minusculo na variavel frase
 print(len(frase)) #Conta quantos tamanhos tem a frase
